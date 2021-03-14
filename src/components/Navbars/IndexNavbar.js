@@ -105,6 +105,15 @@ function IndexNavbar() {
               >
                 <i className="fa fa-bitcoin"></i> Crypto
               </NavLink>
+               <NavLink
+                data-placement="bottom"
+                href=""
+                target="_blank"
+                title="Loom Videos"
+              >
+                <i className="fa fa-video" />
+                <p className="d-lg-none">Tutorials</p>
+              </NavLink>
             </NavItem>
           </Nav>
         </Collapse>
